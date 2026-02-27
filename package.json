@@ -50,6 +50,6 @@
     "typescript": "~4.8.4"
   },
   "dependencies": {
-    "node-jt400": "^4.4.1"
+    "node-jt400": "^6.0.1"
   }
 }

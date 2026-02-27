@@ -1,5 +1,9 @@
 # n8n-nodes-ibmi-db2
 
+⚠️ This fork of @tonymorello/n8n-nodes-ibmi-db2 updates the jt400 dependency to ensure compatibility with Node.js v24, as required for n8n v2.9.4.
+
+### 
+
 This is an n8n community node. It lets you query a DB2 instance running on iSeries (AS400) in your n8n workflows.
 
 I created this node for internal use (initially based off of [GeorgeJeffcock/n8n](https://github.com/GeorgeJeffcock/n8n)'s repo for reference as I was learning how to write custom nodes).  
