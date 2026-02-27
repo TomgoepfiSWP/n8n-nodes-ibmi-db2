@@ -1,7 +1,7 @@
 {
-  "name": "n8n-nodes-ibmi-db2",
-  "version": "1.0.3",
-  "description": "n8n Community node to query a DB2 instance for iSeries",
+  "name": "n8n-nodes-ibmi-db2-node24",
+  "version": "1.0.4",
+  "description": "n8n community node for IBM i DB2 (Node 24 compatible fork)",
   "keywords": [
     "n8n-community-node-package",
     "IBMi",
@@ -9,13 +9,13 @@
     "DB2"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/tonymorello/n8n-nodes-ibmi-db2",
+  "homepage": "https://github.com/TomgoepfiSWP/n8n-nodes-ibmi-db2",
   "author": {
-    "name": "Tony Morello"
+    "name": "Tom Göpfert"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tonymorello/n8n-nodes-ibmi-db2.git"
+    "url": "https://github.com/TomgoepfiSWP/n8n-nodes-ibmi-db2.git"
   },
   "main": "index.js",
   "scripts": {
