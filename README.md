@@ -1,6 +1,6 @@
 # n8n-nodes-ibmi-db2
 
-⚠️ This fork of @tonymorello/n8n-nodes-ibmi-db2 updates the jt400 dependency to ensure compatibility with Node.js v24, as required for n8n v2.9.4.
+⚠️ This fork of @tonymorello/n8n-nodes-ibmi-db2 updates the jt400 dependency to ensure compatibility with Node.js v24, as required for n8n >=v2.9.4.
 
 ### 
 
